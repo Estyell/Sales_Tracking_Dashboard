@@ -8,8 +8,8 @@ The Nairobi VII branch manager wants to be able to monitor the sales of the diff
 
 ## KPI Questions
 •	What is the performance of each financial advisor?</br>
-•	What is the participation of each financial advisor?
-•	What is the performance of each branch unit?
-•	What is the participation of each branch unit?
-•	How are the different product lines distributed?
-•	How is the performance of the financial advisors over time?
+•	What is the participation of each financial advisor?</br>
+•	What is the performance of each branch unit?</br>
+•	What is the participation of each branch unit?</br>
+•	How are the different product lines distributed?</br>
+•	How is the performance of the financial advisors over time?</br>

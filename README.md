@@ -7,7 +7,7 @@ The Nairobi VII branch manager wants to be able to monitor the sales of the diff
 - <a href="https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/DemoDashboard_Data.xlsx">Dataset</a>
 
 ## KPI Questions
-•	What is the performance of each financial advisor?
+•	What is the performance of each financial advisor?</br>
 •	What is the participation of each financial advisor?
 •	What is the performance of each branch unit?
 •	What is the participation of each branch unit?

@@ -1,2 +1,5 @@
-# Sales_Tracking_Dashboard
-I developed a comprehensive project in google sheets, which I used to process the sales data which would be utilized to feed the dashboard. The dashboard itself was created on Looker Studio. This process involved several stages including data preprocessing, data cleaning, and data visualization.
+# Nairobi VII Sales Tracking dashboard
+
+## PROJECT OBJECTIVE
+The Nairobi VII branch manager wants to be able to monitor the sales of the different financial advisors within the branch and across the different lines of products. The aim is to easily identify any struggling financial advisor for better management.
+

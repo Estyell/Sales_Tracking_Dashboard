@@ -16,3 +16,10 @@ The Nairobi VII branch manager wants to be able to monitor the sales of the diff
 
 ## Dashboard Created
 -	<a href="https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/Dashboard.png">Dashboard</a>
+
+## Process
+•	Verify the dataset to ensure there is no missing data
+•	Ensure the data is consistent and clean with respect to data types, data format, and data values used.
+
+## Dashboard
+<img width="652" height="539" alt="Dashboard" src="https://github.com/user-attachments/assets/2cd021fb-07cb-4ad7-82ac-9420c0d822ef" />

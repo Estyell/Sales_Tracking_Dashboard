@@ -13,3 +13,6 @@ The Nairobi VII branch manager wants to be able to monitor the sales of the diff
 •	What is the participation of each branch unit?</br>
 •	How are the different product lines distributed?</br>
 •	How is the performance of the financial advisors over time?</br>
+
+## Dashboard Created
+-	<a href=”https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/Dashboard.png”>Dashboard</a>

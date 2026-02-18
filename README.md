@@ -15,4 +15,4 @@ The Nairobi VII branch manager wants to be able to monitor the sales of the diff
 •	How is the performance of the financial advisors over time?</br>
 
 ## Dashboard Created
--	<a href=”https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/Dashboard.png”>Dashboard</a>
+-	<a href="https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/Dashboard.png">Dashboard</a>

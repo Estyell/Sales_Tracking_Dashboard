@@ -24,7 +24,7 @@ The solution should also allow the user to drill down on a specific financial ad
 The solution should identify underperforming Financial advisors, branch units, and product line.
 
 ### Non-Functional Requirements
-The users will have access to the dashboard by not the dataset feeding the dashboards.</br>
+The users will have access to the dashboard but not the dataset feeding the dashboards.</br>
 There will be one data manager who updates the dataset with new sales records.</br>
 The dataset is updated with new records every Friday of the week</br>
 The dashboard visuals update automatically.

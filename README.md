@@ -1,13 +1,14 @@
 # Nairobi VII Sales Tracking dashboard
 ## Business Context
-This project was designed for one branch of a major insurance and investment company in Kenya, that sells different insurance, savings, investment, and corporate business products.
-The branch has significant amounts of data on its sales that has been underutilized, and leadership lacks insight into branch financial advisors' sales performance. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve the branch’s sales revenue and effectively monitor financial advisor participation.
+This project was designed for one branch of a major insurance and investment company in Kenya. The branch has significant amounts of data on its sales that has been underutilized, and leadership lacks insight into branch financial advisors' sales performance. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve the branch’s sales revenue and effectively monitor financial advisor participation.
 
 ## Project Objective
-The Nairobi VII branch manager would like to be able to monitor the sales of the different financial advisors within the branch and across the different lines of products. The aim is to easily identify any struggling financial advisor for better management.
+The Nairobi VII branch manager would like to be able to monitor the sales of the different financial advisors within the branch and across the different lines of products. The aim is to easily identify any struggling financial advisor for better management.  
 
-## Business Problem
-Sales data exists, but is not structured for proper performance monitoring.
+## Tools Used
+Google Sheets </br>
+Looker studio </br>
+Excel
 
 ## Stakeholders
 Branch Manager </br>
@@ -48,10 +49,6 @@ Each row represents one sales transaction
 Dropdowns are introduced on Advisor_Name, Product_Name to ensure data integrity
 A transaction ID column is introduced to ensure uniqueness in each sales record
 
-### Tools Used
-Google sheets and Looker studio
-
-
 ## KPI Questions
 •	What is the performance of each financial advisor?</br>
 •	What is the participation of each financial advisor?</br>
@@ -68,7 +65,6 @@ Google sheets and Looker studio
 - Top sale - showcases top financial advisor and product
 - Sales performance unitwise - which branch is carrying the branch?
 - Sales performance productwise - what is the product distribution in relation to sales revenue
-
 
 ## Dashboard Created
 -Dashoard Interaction	<a href="https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/Dashboard.png">View_Dashboard</a>

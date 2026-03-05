@@ -1,9 +1,12 @@
-# Nairobi VII Sales Tracking dashboard
-## Business Context
-This project was designed for one branch of a major insurance and investment company in Kenya. The branch has significant amounts of data on its sales that has been underutilized, and leadership lacks insight into branch financial advisors' sales performance. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve the branch’s sales revenue and effectively monitor financial advisor participation.
+# Sales Performance and KPI Tracking System
 
-## Project Objective
-The Nairobi VII branch manager would like to be able to monitor the sales of the different financial advisors within the branch and across the different lines of products. The aim is to easily identify any struggling financial advisor for better management.  
+![Sales Tracker Preview](Dashboard.png)
+
+## Business Context
+This project was designed for one branch of a client that needed a tracking system for their sales team. The branch has significant amounts of data on its sales that has been underutilized, and leadership lacks insight into branch financial advisors' sales performance. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve the branch’s sales revenue and effectively monitor financial advisor participation.
+
+## 🎯 Executive Summary
+This project is a high-integrity **Sales Operations Tool** designed to provide real-time visibility into revenue targets, team performance, and monthly growth trends. I engineered this system to replace static spreadsheets with a dynamic, automated tracking environment.
 
 ## Tools Used
 Google Sheets </br>
@@ -15,7 +18,8 @@ Branch Manager </br>
 Branch Unit managers
 
 ## Business Requirements
-To increase the sales performance and increase value by X%. Having a better understanding of the participation of different financial advisors and increase financial advisor contribution to revenue to a constant Y%.
+To increase visibility to the performance of sales agents within one branch. </br? 
+To have a better understanding of the participation of different sales agents to the overal branch performance.
 
 ### Functional Requirements
 The solution should track the general sales performance of the branch over time by unit branch, financial advisor, and product line.</br>
@@ -66,9 +70,5 @@ A transaction ID column is introduced to ensure uniqueness in each sales record
 - Sales performance unitwise - which branch is carrying the branch?
 - Sales performance productwise - what is the product distribution in relation to sales revenue
 
-## Dashboard Created
--Dashoard Interaction	<a href="https://github.com/Estyell/Sales_Tracking_Dashboard/blob/main/Dashboard.png">View_Dashboard</a>
-
-
-## Dashboard
-<img width="652" height="539" alt="Dashboard" src="https://github.com/user-attachments/assets/2cd021fb-07cb-4ad7-82ac-9420c0d822ef" />
+---
+📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/stella-ngei-95241565)

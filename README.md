@@ -2,6 +2,9 @@
 
 ![Sales Tracker Preview](Dashboard.png)
 
+## 🔗 Live Dashboard
+- <a href="https://lookerstudio.google.com/reporting/26c61395-cb55-4970-9998-00cc03f44532">View Interactive Dashboard on Looker Studio!</a>
+
 ## Business Context
 This project was designed for one branch of a client that needed a tracking system for their sales team. The branch has significant amounts of data on its sales that has been underutilized, and leadership lacks insight into branch financial advisors' sales performance. This project thoroughly analyzes and synthesizes this data in order to uncover critical insights that will improve the branch’s sales revenue and effectively monitor financial advisor participation.
 
@@ -77,7 +80,5 @@ A transaction ID column is introduced to ensure uniqueness in each sales record
 - Sales performance unitwise - which branch is carrying the branch?
 - Sales performance productwise - what is the product distribution in relation to sales revenue
 
-### Dashboard Interaction
-- <a href="https://lookerstudio.google.com/reporting/26c61395-cb55-4970-9998-00cc03f44532">View Interactive Dashboard on Looker Studio!</a>
 ---
 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/stella-ngei-95241565)

@@ -43,9 +43,9 @@ There will be one data manager who updates the dataset with new sales records.</
 The dataset is updated with new records every Friday of the week</br>
 The dashboard visuals update automatically.
 
-> **Note:** The dataset used in this project is synthetic, generated with parameters that closely reflect the client's real sales scenario. Raw data was withheld for confidentiality reasons.
 
 ## Dataset Used
+> **Note:** The dataset used in this project is synthetic, generated with parameters that closely reflect the client's real sales scenario. Raw data was withheld for confidentiality reasons.
 ### Source
 The data used was a mock sales dataset that was generated with parameters that matched the client’s sales scenario.
 

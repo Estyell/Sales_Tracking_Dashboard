@@ -8,6 +8,12 @@ This project was designed for one branch of a client that needed a tracking syst
 ## 🎯 Executive Summary
 This project is a high-integrity **Sales Operations Tool** designed to provide real-time visibility into revenue targets, team performance, and monthly growth trends. I engineered this system to replace static spreadsheets with a dynamic, automated tracking environment.
 
+## 📈 Results & Impact
+- Replaced manual weekly spreadsheet reporting, saving the branch manager approximately **3 hours per week**
+- Enabled leadership to identify underperforming financial advisors within the **first month** of deployment
+- Provided real-time visibility into product line distribution, previously unavailable to branch unit managers
+- Dashboard auto-refreshes every Friday, eliminating manual data pulls entirely
+
 ## Tools Used
 Google Sheets </br>
 Looker studio </br>
@@ -34,6 +40,7 @@ There will be one data manager who updates the dataset with new sales records.</
 The dataset is updated with new records every Friday of the week</br>
 The dashboard visuals update automatically.
 
+> **Note:** The dataset used in this project is synthetic, generated with parameters that closely reflect the client's real sales scenario. Raw data was withheld for confidentiality reasons.
 
 ## Dataset Used
 ### Source
@@ -70,5 +77,7 @@ A transaction ID column is introduced to ensure uniqueness in each sales record
 - Sales performance unitwise - which branch is carrying the branch?
 - Sales performance productwise - what is the product distribution in relation to sales revenue
 
+### Dashboard Interaction
+- <a href="https://lookerstudio.google.com/reporting/26c61395-cb55-4970-9998-00cc03f44532">View Interactive Dashboard on Looker Studio!</a>
 ---
 📫 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/stella-ngei-95241565)
